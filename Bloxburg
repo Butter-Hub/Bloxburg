@@ -1,0 +1,1050 @@
+local Part = Instance.new('Part')
+Part.Parent = Points
+Part.Name = 'Part'
+Part.Size = Vector3.new(60.2220458984375,34.74176788330078,2.494873046875)
+Part.Position = Vector3.new(-141.43927001953125,25.820907592773438,811.2039794921875)
+Part.Orientation = Vector3.new(0,0.7170000076293945,0)
+Part.CanCollide = true
+Part.Anchored = true
+Part.Transparency = 1
+
+local Part = Instance.new('Part')
+Part.Parent = Points
+Part.Name = 'Part'
+Part.Size = Vector3.new(91.2388687133789,85.22000122070312,220.0885772705078)
+Part.Position = Vector3.new(507.6900329589844,43.21029281616211,165.54627990722656)
+Part.Orientation = Vector3.new(0,29.530000686645508,0)
+Part.CanCollide = true
+Part.Anchored = true
+Part.Transparency = 1
+
+local Part = Instance.new('Part')
+Part.Parent = Points
+Part.Name = 'Part'
+Part.Size = Vector3.new(91.2388687133789,85.22000122070312,174.99981689453125)
+Part.Position = Vector3.new(440.68719482421875,43.21029281616211,10.211038589477539)
+Part.Orientation = Vector3.new(0,23.329999923706055,0)
+Part.CanCollide = true
+Part.Anchored = true
+Part.Transparency = 1
+
+local Part = Instance.new('Part')
+Part.Parent = Points
+Part.Name = 'Part'
+Part.Size = Vector3.new(91.2388687133789,85.22000122070312,174.99981689453125)
+Part.Position = Vector3.new(435.21234130859375,43.21029281616211,-138.55490112304688)
+Part.Orientation = Vector3.new(0,-3.2200000286102295,0)
+Part.CanCollide = true
+Part.Anchored = true
+Part.Transparency = 1
+
+local Part = Instance.new('Part')
+Part.Parent = Points
+Part.Name = 'Part'
+Part.Size = Vector3.new(91.2388687133789,85.22000122070312,242.08975219726562)
+Part.Position = Vector3.new(373.6954040527344,43.21029281616211,-280.6891174316406)
+Part.Orientation = Vector3.new(0,44.060001373291016,0)
+Part.CanCollide = true
+Part.Anchored = true
+Part.Transparency = 1
+
+local Part = Instance.new('Part')
+Part.Parent = Points
+Part.Name = 'Part'
+Part.Size = Vector3.new(112.20561218261719,85.22000122070312,236.66156005859375)
+Part.Position = Vector3.new(542.75244140625,43.21029281616211,473.7735290527344)
+Part.Orientation = Vector3.new(0,0,0)
+Part.CanCollide = true
+Part.Anchored = true
+Part.Transparency = 1
+
+local Part = Instance.new('Part')
+Part.Parent = Points
+Part.Name = 'Part'
+Part.Size = Vector3.new(74.64472198486328,85.22000122070312,147.20211791992188)
+Part.Position = Vector3.new(575.12890625,43.21029281616211,588.5701293945312)
+Part.Orientation = Vector3.new(0,35.70000076293945,0)
+Part.CanCollide = true
+Part.Anchored = true
+Part.Transparency = 1
+
+local Part = Instance.new('Part')
+Part.Parent = Points
+Part.Name = 'Part'
+Part.Size = Vector3.new(74.64472198486328,85.22000122070312,147.20211791992188)
+Part.Position = Vector3.new(671.3331909179688,43.21029281616211,722.463134765625)
+Part.Orientation = Vector3.new(0,35.70000076293945,0)
+Part.CanCollide = true
+Part.Anchored = true
+Part.Transparency = 1
+
+local Part = Instance.new('Part')
+Part.Parent = Points
+Part.Name = 'Part'
+Part.Size = Vector3.new(74.64472198486328,85.22000122070312,147.20211791992188)
+Part.Position = Vector3.new(698.8416137695312,43.21029281616211,826.712646484375)
+Part.Orientation = Vector3.new(0,0.9599999785423279,0)
+Part.CanCollide = true
+Part.Anchored = true
+Part.Transparency = 1
+
+local Part = Instance.new('Part')
+Part.Parent = Points
+Part.Name = 'Part'
+Part.Size = Vector3.new(156.54849243164062,85.22000122070312,1516.498291015625)
+Part.Position = Vector3.new(712.8280639648438,43.21029281616211,1648.589111328125)
+Part.Orientation = Vector3.new(0,0.9599999785423279,0)
+Part.CanCollide = true
+Part.Anchored = true
+Part.Transparency = 1
+
+local Part = Instance.new('Part')
+Part.Parent = Points
+Part.Name = 'Part'
+Part.Size = Vector3.new(1,10.16665267944336,7.029815673828125)
+Part.Position = Vector3.new(1153.063720703125,13.250833511352539,271.500244140625)
+Part.Orientation = Vector3.new(0,0,0)
+Part.CanCollide = true
+Part.Anchored = true
+Part.Transparency = 1
+
+local Part = Instance.new('Part')
+Part.Parent = Points
+Part.Name = 'Part'
+Part.Size = Vector3.new(31.45166015625,19.4822940826416,10.4399995803833)
+Part.Position = Vector3.new(1141.1292724609375,19.602630615234375,287.22021484375)
+Part.Orientation = Vector3.new(0,0,0)
+Part.CanCollide = true
+Part.Anchored = true
+Part.Transparency = 1
+
+local Part = Instance.new('Part')
+Part.Parent = Points
+Part.Name = 'Part'
+Part.Size = Vector3.new(67.87999725341797,19.4822940826416,24.926082611083984)
+Part.Position = Vector3.new(1119.010498046875,19.941146850585938,385.3343505859375)
+Part.Orientation = Vector3.new(0,90,0)
+Part.CanCollide = true
+Part.Anchored = true
+Part.Transparency = 1
+
+local Part = Instance.new('Part')
+Part.Parent = Points
+Part.Name = 'Part'
+Part.Size = Vector3.new(24,18,28)
+Part.Position = Vector3.new(1096.400146484375,18,28.099891662597656)
+Part.Orientation = Vector3.new(0,0,0)
+Part.CanCollide = true
+Part.Anchored = true
+Part.Transparency = 1
+
+local Part = Instance.new('Part')
+Part.Parent = Points
+Part.Name = 'Part'
+Part.Size = Vector3.new(14.6319580078125,22.15999984741211,291.1674499511719)
+Part.Position = Vector3.new(1191.3408203125,21.177387237548828,138.56358337402344)
+Part.Orientation = Vector3.new(0,0,0)
+Part.CanCollide = true
+Part.Anchored = true
+Part.Transparency = 1
+
+local Part = Instance.new('Part')
+Part.Parent = Points
+Part.Name = 'Part'
+Part.Size = Vector3.new(112.20561218261719,85.22000122070312,59.735260009765625)
+Part.Position = Vector3.new(542.75244140625,43.21029281616211,266.865966796875)
+Part.Orientation = Vector3.new(0,0,0)
+Part.CanCollide = true
+Part.Anchored = true
+Part.Transparency = 1
+
+local Part = Instance.new('Part')
+Part.Parent = Points
+Part.Name = 'Part'
+Part.Size = Vector3.new(14.6319580078125,22.15999984741211,335.47998046875)
+Part.Position = Vector3.new(781.731689453125,21.177387237548828,-32.41087341308594)
+Part.Orientation = Vector3.new(0,0,0)
+Part.CanCollide = true
+Part.Anchored = true
+Part.Transparency = 1
+
+local Part = Instance.new('Part')
+Part.Parent = Points
+Part.Name = 'Part'
+Part.Size = Vector3.new(150.6999969482422,29.565929412841797,146.8841094970703)
+Part.Position = Vector3.new(880.4100341796875,24.880352020263672,1119.171630859375)
+Part.Orientation = Vector3.new(0,-14.699999809265137,0)
+Part.CanCollide = true
+Part.Anchored = true
+Part.Transparency = 1
+
+local Part = Instance.new('Part')
+Part.Parent = Points
+Part.Name = 'Part'
+Part.Size = Vector3.new(104.5999984741211,29.565929412841797,215.49488830566406)
+Part.Position = Vector3.new(1272.1759033203125,24.98296546936035,513.0718994140625)
+Part.Orientation = Vector3.new(0,0,0)
+Part.CanCollide = true
+Part.Anchored = true
+Part.Transparency = 1
+
+local Part = Instance.new('Part')
+Part.Parent = Points
+Part.Name = 'Part'
+Part.Size = Vector3.new(33.86968994140625,22.15999984741211,15.113801956176758)
+Part.Position = Vector3.new(877.6053466796875,21.177387237548828,7.336468696594238)
+Part.Orientation = Vector3.new(0,0,0)
+Part.CanCollide = true
+Part.Anchored = true
+Part.Transparency = 1
+
+local Part = Instance.new('Part')
+Part.Parent = Points
+Part.Name = 'Part'
+Part.Size = Vector3.new(1140.2220458984375,32.74176788330078,2.4948883056640625)
+Part.Position = Vector3.new(457.55010986328125,26.48296546936035,354.89739990234375)
+Part.Orientation = Vector3.new(0,0,0)
+Part.CanCollide = true
+Part.Anchored = true
+Part.Transparency = 1
+
+local Part = Instance.new('Part')
+Part.Parent = Points
+Part.Name = 'Part'
+Part.Size = Vector3.new(3.2220458984375,32.74176788330078,437.49493408203125)
+Part.Position = Vector3.new(1026.0491943359375,26.385986328125,572.39599609375)
+Part.Orientation = Vector3.new(0,0,0)
+Part.CanCollide = true
+Part.Anchored = true
+Part.Transparency = 1
+
+local Part = Instance.new('Part')
+Part.Parent = Points
+Part.Name = 'Part'
+Part.Size = Vector3.new(1013.2220458984375,32.74176788330078,2.4948883056640625)
+Part.Position = Vector3.new(397.0500793457031,26.127777099609375,298.89739990234375)
+Part.Orientation = Vector3.new(0,0,0)
+Part.CanCollide = true
+Part.Anchored = true
+Part.Transparency = 1
+
+local Part = Instance.new('Part')
+Part.Parent = Points
+Part.Name = 'Part'
+Part.Size = Vector3.new(3.2220458984375,29.74176597595215,199.49493408203125)
+Part.Position = Vector3.new(1088.0491943359375,24.7247314453125,691.39599609375)
+Part.Orientation = Vector3.new(0,0,0)
+Part.CanCollide = true
+Part.Anchored = true
+Part.Transparency = 1
+
+local Part = Instance.new('Part')
+Part.Parent = Points
+Part.Name = 'Part'
+Part.Size = Vector3.new(119.2220458984375,29.74176597595215,2.49493408203125)
+Part.Position = Vector3.new(1147.046875,24.466510772705078,592.89599609375)
+Part.Orientation = Vector3.new(0,0,0)
+Part.CanCollide = true
+Part.Anchored = true
+Part.Transparency = 1
+
+local Part = Instance.new('Part')
+Part.Parent = Points
+Part.Name = 'Part'
+Part.Size = Vector3.new(2.2220458984375,29.74176597595215,169.49493408203125)
+Part.Position = Vector3.new(1206.546875,24.46651840209961,506.3980712890625)
+Part.Orientation = Vector3.new(0,0,0)
+Part.CanCollide = true
+Part.Anchored = true
+Part.Transparency = 1
+
+local Part = Instance.new('Part')
+Part.Parent = Points
+Part.Name = 'Part'
+Part.Size = Vector3.new(94.2220458984375,29.74176597595215,2.49493408203125)
+Part.Position = Vector3.new(1160.5443115234375,24.57088851928711,420.8980712890625)
+Part.Orientation = Vector3.new(0,0,0)
+Part.CanCollide = true
+Part.Anchored = true
+Part.Transparency = 1
+
+local Part = Instance.new('Part')
+Part.Parent = Points
+Part.Name = 'Part'
+Part.Size = Vector3.new(3.2220458984375,29.74176597595215,70.49493408203125)
+Part.Position = Vector3.new(1114.0443115234375,24.070899963378906,386.8980712890625)
+Part.Orientation = Vector3.new(0,0,0)
+Part.CanCollide = true
+Part.Anchored = true
+Part.Transparency = 1
+
+local Part = Instance.new('Part')
+Part.Parent = Points
+Part.Name = 'Part'
+Part.Size = Vector3.new(788.2220458984375,29.74176597595215,2.49493408203125)
+Part.Position = Vector3.new(1506.541748046875,24.312667846679688,350.8980712890625)
+Part.Orientation = Vector3.new(0,0,0)
+Part.CanCollide = true
+Part.Anchored = true
+Part.Transparency = 1
+
+local Part = Instance.new('Part')
+Part.Parent = Points
+Part.Name = 'Part'
+Part.Size = Vector3.new(715.2220458984375,29.74176597595215,2.49493408203125)
+Part.Position = Vector3.new(1543.041748046875,24.05445098876953,292.8980712890625)
+Part.Orientation = Vector3.new(0,0,0)
+Part.CanCollide = true
+Part.Anchored = true
+Part.Transparency = 1
+
+local Part = Instance.new('Part')
+Part.Parent = Points
+Part.Name = 'Part'
+Part.Size = Vector3.new(2.2220458984375,29.74176597595215,12.49493408203125)
+Part.Position = Vector3.new(1185.54150390625,23.855865478515625,287.8980712890625)
+Part.Orientation = Vector3.new(0,0,0)
+Part.CanCollide = true
+Part.Anchored = true
+Part.Transparency = 1
+
+local Part = Instance.new('Part')
+Part.Parent = Points
+Part.Name = 'Part'
+Part.Size = Vector3.new(2.2220458984375,29.74176597595215,1581.494873046875)
+Part.Position = Vector3.new(1960.54150390625,23.796245574951172,-125.60186767578125)
+Part.Orientation = Vector3.new(0,0,0)
+Part.CanCollide = true
+Part.Anchored = true
+Part.Transparency = 1
+
+local Part = Instance.new('Part')
+Part.Parent = Points
+Part.Name = 'Part'
+Part.Size = Vector3.new(2.2220458984375,30.74176597595215,1210.494873046875)
+Part.Position = Vector3.new(1899.54150390625,23.3609619140625,-311.1019287109375)
+Part.Orientation = Vector3.new(0,0,0)
+Part.CanCollide = true
+Part.Anchored = true
+Part.Transparency = 1
+
+local Part = Instance.new('Part')
+Part.Parent = Points
+Part.Name = 'Part'
+Part.Size = Vector3.new(2.2220458984375,30.74176597595215,305.494873046875)
+Part.Position = Vector3.new(1899.54150390625,23.3609619140625,503.39801025390625)
+Part.Orientation = Vector3.new(0,0,0)
+Part.CanCollide = true
+Part.Anchored = true
+Part.Transparency = 1
+
+local Part = Instance.new('Part')
+Part.Parent = Points
+Part.Name = 'Part'
+Part.Size = Vector3.new(63.2220458984375,31.74176597595215,2.494873046875)
+Part.Position = Vector3.new(1930.0428466796875,22.8609619140625,-835.1019287109375)
+Part.Orientation = Vector3.new(0,0,0)
+Part.CanCollide = true
+Part.Anchored = true
+Part.Transparency = 1
+
+local Part = Instance.new('Part')
+Part.Parent = Points
+Part.Name = 'Part'
+Part.Size = Vector3.new(22.2220458984375,30.74176597595215,2.494873046875)
+Part.Position = Vector3.new(1929.542724609375,23.102737426757812,679.8980712890625)
+Part.Orientation = Vector3.new(0,0,0)
+Part.CanCollide = true
+Part.Anchored = true
+Part.Transparency = 1
+
+local Part = Instance.new('Part')
+Part.Parent = Points
+Part.Name = 'Part'
+Part.Size = Vector3.new(27.2220458984375,30.74176597595215,2.494873046875)
+Part.Position = Vector3.new(1950.146728515625,23.382375717163086,672.889404296875)
+Part.Orientation = Vector3.new(0.7630000114440918,-140.77499389648438,0.2669999897480011)
+Part.CanCollide = true
+Part.Anchored = true
+Part.Transparency = 1
+
+local Part = Instance.new('Part')
+Part.Parent = Points
+Part.Name = 'Part'
+Part.Size = Vector3.new(34.2220458984375,30.74176597595215,2.494873046875)
+Part.Position = Vector3.new(1908.60986328125,23.850465774536133,667.295654296875)
+Part.Orientation = Vector3.new(0.2669999897480011,129.2220001220703,-0.7630000114440918)
+Part.CanCollide = true
+Part.Anchored = true
+Part.Transparency = 1
+
+local Part = Instance.new('Part')
+Part.Parent = Points
+Part.Name = 'Part'
+Part.Size = Vector3.new(2.2220458984375,32.74176788330078,458.494873046875)
+Part.Position = Vector3.new(-111.44989013671875,26.385986328125,582.8966064453125)
+Part.Orientation = Vector3.new(0,0,0)
+Part.CanCollide = true
+Part.Anchored = true
+Part.Transparency = 1
+
+local Part = Instance.new('Part')
+Part.Parent = Points
+Part.Name = 'Part'
+Part.Size = Vector3.new(2.2220458984375,32.74176788330078,785.494873046875)
+Part.Position = Vector3.new(-170.44989013671875,26.385986328125,419.39654541015625)
+Part.Orientation = Vector3.new(0,0,0)
+Part.CanCollide = true
+Part.Anchored = true
+Part.Transparency = 1
+
+local Part = Instance.new('Part')
+Part.Parent = Points
+Part.Name = 'Part'
+Part.Size = Vector3.new(2.2220458984375,32.74176788330078,243.494873046875)
+Part.Position = Vector3.new(-108.44989013671875,26.014175415039062,177.3966064453125)
+Part.Orientation = Vector3.new(0,0,0)
+Part.CanCollide = true
+Part.Anchored = true
+Part.Transparency = 1
+
+local Part = Instance.new('Part')
+Part.Parent = Points
+Part.Name = 'Part'
+Part.Size = Vector3.new(283.2220458984375,32.74176788330078,2.494873046875)
+Part.Position = Vector3.new(59.05010986328125,25.385986328125,26.8966064453125)
+Part.Orientation = Vector3.new(0,0,0)
+Part.CanCollide = true
+Part.Anchored = true
+Part.Transparency = 1
+
+local Part = Instance.new('Part')
+Part.Parent = Points
+Part.Name = 'Part'
+Part.Size = Vector3.new(316.2220458984375,32.74176788330078,2.494873046875)
+Part.Position = Vector3.new(46.55012512207031,25.12777328491211,-34.1033935546875)
+Part.Orientation = Vector3.new(0,0,0)
+Part.CanCollide = true
+Part.Anchored = true
+Part.Transparency = 1
+
+local Part = Instance.new('Part')
+Part.Parent = Points
+Part.Name = 'Part'
+Part.Size = Vector3.new(25.2220458984375,30.74176597595215,2.494873046875)
+Part.Position = Vector3.new(210.17820739746094,26.23457145690918,-24.775938034057617)
+Part.Orientation = Vector3.new(0.2240000069141388,-50.43199920654297,1.0820000171661377)
+Part.CanCollide = true
+Part.Anchored = true
+Part.Transparency = 1
+
+local Part = Instance.new('Part')
+Part.Parent = Points
+Part.Name = 'Part'
+Part.Size = Vector3.new(25.2220458984375,30.74176597595215,2.494873046875)
+Part.Position = Vector3.new(208.02723693847656,27.445178985595703,16.728071212768555)
+Part.Orientation = Vector3.new(1.0820000171661377,-140.43600463867188,-0.2240000069141388)
+Part.CanCollide = true
+Part.Anchored = true
+Part.Transparency = 1
+
+local Part = Instance.new('Part')
+Part.Parent = Points
+Part.Name = 'Part'
+Part.Size = Vector3.new(25.2220458984375,30.74176597595215,2.494873046875)
+Part.Position = Vector3.new(217.17071533203125,26.322935104370117,-3.303910732269287)
+Part.Orientation = Vector3.new(-0.09799999743700027,90.33599853515625,-0.972000002861023)
+Part.CanCollide = true
+Part.Anchored = true
+Part.Transparency = 1
+
+local Part = Instance.new('Part')
+Part.Parent = Points
+Part.Name = 'Part'
+Part.Size = Vector3.new(41.2220458984375,32.74176788330078,2.494873046875)
+Part.Position = Vector3.new(-94.7136459350586,25.47088623046875,41.38093566894531)
+Part.Orientation = Vector3.new(0,47.66999816894531,0)
+Part.CanCollide = true
+Part.Anchored = true
+Part.Transparency = 1
+
+local Part = Instance.new('Part')
+Part.Parent = Points
+Part.Name = 'Part'
+Part.Size = Vector3.new(32.2220458984375,32.74176788330078,2.494873046875)
+Part.Position = Vector3.new(-148.01719665527344,26.755950927734375,-9.148613929748535)
+Part.Orientation = Vector3.new(0,47.66999816894531,0)
+Part.CanCollide = true
+Part.Anchored = true
+Part.Transparency = 1
+
+local Part = Instance.new('Part')
+Part.Parent = Points
+Part.Name = 'Part'
+Part.Size = Vector3.new(32.2220458984375,32.74176788330078,2.494873046875)
+Part.Position = Vector3.new(-165.9215850830078,26.497737884521484,17.580360412597656)
+Part.Orientation = Vector3.new(0,65.2979965209961,0)
+Part.CanCollide = true
+Part.Anchored = true
+Part.Transparency = 1
+
+local Part = Instance.new('Part')
+Part.Parent = Points
+Part.Name = 'Part'
+Part.Size = Vector3.new(2.2220458984375,36.74176788330078,24.49493408203125)
+Part.Position = Vector3.new(935.0220336914062,24.259552001953125,940.1461791992188)
+Part.Orientation = Vector3.new(0,-92.49600219726562,0)
+Part.CanCollide = true
+Part.Anchored = true
+Part.Transparency = 1
+
+local Part = Instance.new('Part')
+Part.Parent = Points
+Part.Name = 'Part'
+Part.Size = Vector3.new(31.2220458984375,32.74176788330078,2.494873046875)
+Part.Position = Vector3.new(-122.63973999023438,27.239517211914062,-28.185535430908203)
+Part.Orientation = Vector3.new(0,26.06999969482422,0)
+Part.CanCollide = true
+Part.Anchored = true
+Part.Transparency = 1
+
+local Part = Instance.new('Part')
+Part.Parent = Points
+Part.Name = 'Part'
+Part.Size = Vector3.new(2.2220458984375,36.74176788330078,54.49493408203125)
+Part.Position = Vector3.new(969.4501953125,24.00133514404297,946.59033203125)
+Part.Orientation = Vector3.new(0,-105.06900024414062,0)
+Part.CanCollide = true
+Part.Anchored = true
+Part.Transparency = 1
+
+local Part = Instance.new('Part')
+Part.Parent = Points
+Part.Name = 'Part'
+Part.Size = Vector3.new(106.2220458984375,29.74176597595215,36.49493408203125)
+Part.Position = Vector3.new(1153.546875,19.46651840209961,498.89599609375)
+Part.Orientation = Vector3.new(0,0,0)
+Part.CanCollide = true
+Part.Anchored = true
+Part.Transparency = 1
+
+local Part = Instance.new('Part')
+Part.Parent = Points
+Part.Name = 'Part'
+Part.Size = Vector3.new(2.2220458984375,29.74176597595215,191.49493408203125)
+Part.Position = Vector3.new(1111.5443115234375,24.312667846679688,161.3980712890625)
+Part.Orientation = Vector3.new(0,0,0)
+Part.CanCollide = true
+Part.Anchored = true
+Part.Transparency = 1
+
+local Part = Instance.new('Part')
+Part.Parent = Points
+Part.Name = 'Part'
+Part.Size = Vector3.new(6.2220458984375,29.74176597595215,2.49493408203125)
+Part.Position = Vector3.new(1109.54443359375,24.05445098876953,66.8980712890625)
+Part.Orientation = Vector3.new(0,0,0)
+Part.CanCollide = true
+Part.Anchored = true
+Part.Transparency = 1
+
+local Part = Instance.new('Part')
+Part.Parent = Points
+Part.Name = 'Part'
+Part.Size = Vector3.new(3.2220458984375,29.74176597595215,54.49493408203125)
+Part.Position = Vector3.new(1107.04443359375,24.054447174072266,40.8980712890625)
+Part.Orientation = Vector3.new(0,0,0)
+Part.CanCollide = true
+Part.Anchored = true
+Part.Transparency = 1
+
+local Part = Instance.new('Part')
+Part.Parent = Points
+Part.Name = 'Part'
+Part.Size = Vector3.new(3.2220458984375,32.74176788330078,218.49493408203125)
+Part.Position = Vector3.new(1086.044677734375,25.29623031616211,-95.1019287109375)
+Part.Orientation = Vector3.new(0,0,0)
+Part.CanCollide = true
+Part.Anchored = true
+Part.Transparency = 1
+
+local Part = Instance.new('Part')
+Part.Parent = Points
+Part.Name = 'Part'
+Part.Size = Vector3.new(120.2220458984375,33.74176788330078,2.49493408203125)
+Part.Position = Vector3.new(976.5411376953125,25.53801727294922,-240.1019287109375)
+Part.Orientation = Vector3.new(0,0,0)
+Part.CanCollide = true
+Part.Anchored = true
+Part.Transparency = 1
+
+local Part = Instance.new('Part')
+Part.Parent = Points
+Part.Name = 'Part'
+Part.Size = Vector3.new(2.2220458984375,34.74176788330078,84.49493408203125)
+Part.Position = Vector3.new(893.5411376953125,25.03801727294922,-168.1019287109375)
+Part.Orientation = Vector3.new(0,0,0)
+Part.CanCollide = true
+Part.Anchored = true
+Part.Transparency = 1
+
+local Part = Instance.new('Part')
+Part.Parent = Points
+Part.Name = 'Part'
+Part.Size = Vector3.new(109.2220458984375,34.74176788330078,2.49493408203125)
+Part.Position = Vector3.new(840.0411376953125,24.779800415039062,-126.1019287109375)
+Part.Orientation = Vector3.new(0,0,0)
+Part.CanCollide = true
+Part.Anchored = true
+Part.Transparency = 1
+
+local Part = Instance.new('Part')
+Part.Parent = Points
+Part.Name = 'Part'
+Part.Size = Vector3.new(3.2220458984375,34.74176788330078,130.49493408203125)
+Part.Position = Vector3.new(786.0411376953125,24.779800415039062,-62.1019287109375)
+Part.Orientation = Vector3.new(0,0,0)
+Part.CanCollide = true
+Part.Anchored = true
+Part.Transparency = 1
+
+local Part = Instance.new('Part')
+Part.Parent = Points
+Part.Name = 'Part'
+Part.Size = Vector3.new(110.2220458984375,34.74176788330078,2.49493408203125)
+Part.Position = Vector3.new(839.5411376953125,24.521583557128906,2.8980712890625)
+Part.Orientation = Vector3.new(0,0,0)
+Part.CanCollide = true
+Part.Anchored = true
+Part.Transparency = 1
+
+local Part = Instance.new('Part')
+Part.Parent = Points
+Part.Name = 'Part'
+Part.Size = Vector3.new(3.2220458984375,34.74176788330078,179.49493408203125)
+Part.Position = Vector3.new(896.0411376953125,24.521587371826172,91.39808654785156)
+Part.Orientation = Vector3.new(0,0,0)
+Part.CanCollide = true
+Part.Anchored = true
+Part.Transparency = 1
+
+local Part = Instance.new('Part')
+Part.Parent = Points
+Part.Name = 'Part'
+Part.Size = Vector3.new(58.222049713134766,34.74176788330078,2.49493408203125)
+Part.Position = Vector3.new(865.5411376953125,24.263370513916016,180.89808654785156)
+Part.Orientation = Vector3.new(0,0,0)
+Part.CanCollide = true
+Part.Anchored = true
+Part.Transparency = 1
+
+local Part = Instance.new('Part')
+Part.Parent = Points
+Part.Name = 'Part'
+Part.Size = Vector3.new(2.2220497131347656,34.74176788330078,43.49493408203125)
+Part.Position = Vector3.new(836.5411376953125,24.263362884521484,160.39808654785156)
+Part.Orientation = Vector3.new(0,0,0)
+Part.CanCollide = true
+Part.Anchored = true
+Part.Transparency = 1
+
+local Part = Instance.new('Part')
+Part.Parent = Points
+Part.Name = 'Part'
+Part.Size = Vector3.new(51.222049713134766,34.74176788330078,2.49493408203125)
+Part.Position = Vector3.new(812.0411987304688,24.005149841308594,137.89808654785156)
+Part.Orientation = Vector3.new(0,0,0)
+Part.CanCollide = true
+Part.Anchored = true
+Part.Transparency = 1
+
+local Part = Instance.new('Part')
+Part.Parent = Points
+Part.Name = 'Part'
+Part.Size = Vector3.new(4.222049713134766,34.74176788330078,93.49492645263672)
+Part.Position = Vector3.new(786.5411987304688,24.005149841308594,185.39808654785156)
+Part.Orientation = Vector3.new(0,0,0)
+Part.CanCollide = true
+Part.Anchored = true
+Part.Transparency = 1
+
+local Part = Instance.new('Part')
+Part.Parent = Points
+Part.Name = 'Part'
+Part.Size = Vector3.new(33.222049713134766,34.74176788330078,11.494926452636719)
+Part.Position = Vector3.new(797.6099243164062,23.97089385986328,227.28219604492188)
+Part.Orientation = Vector3.new(0,-30.089000701904297,0)
+Part.CanCollide = true
+Part.Anchored = true
+Part.Transparency = 1
+
+local Part = Instance.new('Part')
+Part.Parent = Points
+Part.Name = 'Part'
+Part.Size = Vector3.new(4.222049713134766,29.74176597595215,21.494935989379883)
+Part.Position = Vector3.new(835.1343383789062,21.505149841308594,146.96705627441406)
+Part.Orientation = Vector3.new(0,18.874000549316406,0)
+Part.CanCollide = true
+Part.Anchored = true
+Part.Transparency = 1
+
+local Part = Instance.new('Part')
+Part.Parent = Points
+Part.Name = 'Part'
+Part.Size = Vector3.new(3.2220497131347656,34.74176788330078,92.49492645263672)
+Part.Position = Vector3.new(856.4287719726562,23.97089385986328,232.02357482910156)
+Part.Orientation = Vector3.new(0,90.302001953125,0)
+Part.CanCollide = true
+Part.Anchored = true
+Part.Transparency = 1
+
+local Part = Instance.new('Part')
+Part.Parent = Points
+Part.Name = 'Part'
+Part.Size = Vector3.new(68.2220458984375,35.74176788330078,3.4949264526367188)
+Part.Position = Vector3.new(901.1044921875,24.47088623046875,265.28887939453125)
+Part.Orientation = Vector3.new(0,90.302001953125,0)
+Part.CanCollide = true
+Part.Anchored = true
+Part.Transparency = 1
+
+local Part = Instance.new('Part')
+Part.Parent = Points
+Part.Name = 'Part'
+Part.Size = Vector3.new(3.2220458984375,32.74176788330078,56.49493408203125)
+Part.Position = Vector3.new(1022.4411010742188,25.966510772705078,818.7589111328125)
+Part.Orientation = Vector3.new(0,-5.75,0)
+Part.CanCollide = true
+Part.Anchored = true
+Part.Transparency = 1
+
+local Part = Instance.new('Part')
+Part.Parent = Points
+Part.Name = 'Part'
+Part.Size = Vector3.new(3.2220458984375,29.74176597595215,65.49493408203125)
+Part.Position = Vector3.new(1084.2794189453125,24.46651840209961,823.4777221679688)
+Part.Orientation = Vector3.new(0,-5.75,0)
+Part.CanCollide = true
+Part.Anchored = true
+Part.Transparency = 1
+
+local Part = Instance.new('Part')
+Part.Parent = Points
+Part.Name = 'Part'
+Part.Size = Vector3.new(3.2220458984375,32.74176788330078,111.49493408203125)
+Part.Position = Vector3.new(1004.9149169921875,26.127765655517578,900.46484375)
+Part.Orientation = Vector3.new(0,-14.831000328063965,0)
+Part.CanCollide = true
+Part.Anchored = true
+Part.Transparency = 1
+
+local Part = Instance.new('Part')
+Part.Parent = Points
+Part.Name = 'Part'
+Part.Size = Vector3.new(3.2220458984375,29.74176788330078,119.49493408203125)
+Part.Position = Vector3.new(1066.129150390625,24.369548797607422,911.5010986328125)
+Part.Orientation = Vector3.new(0,-14.831000328063965,0)
+Part.CanCollide = true
+Part.Anchored = true
+Part.Transparency = 1
+
+local Part = Instance.new('Part')
+Part.Parent = Points
+Part.Name = 'Part'
+Part.Size = Vector3.new(58.2220458984375,29.74176788330078,3.49493408203125)
+Part.Position = Vector3.new(1077.8677978515625,24.208290100097656,974.6079711914062)
+Part.Orientation = Vector3.new(0,-14.831000328063965,0)
+Part.CanCollide = true
+Part.Anchored = true
+Part.Transparency = 1
+
+local Part = Instance.new('Part')
+Part.Parent = Points
+Part.Name = 'Part'
+Part.Size = Vector3.new(25.2220458984375,29.74176788330078,3.49493408203125)
+Part.Position = Vector3.new(1113.8590087890625,24.111324310302734,991.1162109375)
+Part.Orientation = Vector3.new(0,-54.09600067138672,0)
+Part.CanCollide = true
+Part.Anchored = true
+Part.Transparency = 1
+
+local Part = Instance.new('Part')
+Part.Parent = Points
+Part.Name = 'Part'
+Part.Size = Vector3.new(23.2220458984375,29.74176788330078,3.49493408203125)
+Part.Position = Vector3.new(1118.95068359375,23.950077056884766,1012.8632202148438)
+Part.Orientation = Vector3.new(0,-96.25900268554688,0)
+Part.CanCollide = true
+Part.Anchored = true
+Part.Transparency = 1
+
+local Part = Instance.new('Part')
+Part.Parent = Points
+Part.Name = 'Part'
+Part.Size = Vector3.new(26.2220458984375,29.74176788330078,3.49493408203125)
+Part.Position = Vector3.new(1108.5450439453125,23.950077056884766,1032.0130615234375)
+Part.Orientation = Vector3.new(0,-142.5749969482422,0)
+Part.CanCollide = true
+Part.Anchored = true
+Part.Transparency = 1
+
+local Part = Instance.new('Part')
+Part.Parent = Points
+Part.Name = 'Part'
+Part.Size = Vector3.new(23.2220458984375,29.74176788330078,3.49493408203125)
+Part.Position = Vector3.new(1087.366943359375,23.691864013671875,1038.5531005859375)
+Part.Orientation = Vector3.new(0,177.322998046875,0)
+Part.CanCollide = true
+Part.Anchored = true
+Part.Transparency = 1
+
+local Part = Instance.new('Part')
+Part.Parent = Points
+Part.Name = 'Part'
+Part.Size = Vector3.new(37.2220458984375,29.74176788330078,3.49493408203125)
+Part.Position = Vector3.new(1063.188232421875,23.691864013671875,1050.129638671875)
+Part.Orientation = Vector3.new(0,-136.67300415039062,0)
+Part.CanCollide = true
+Part.Anchored = true
+Part.Transparency = 1
+
+local Part = Instance.new('Part')
+Part.Parent = Points
+Part.Name = 'Part'
+Part.Size = Vector3.new(27.2220458984375,29.74176788330078,3.49493408203125)
+Part.Position = Vector3.new(1046.704833984375,23.43364715576172,1074.6397705078125)
+Part.Orientation = Vector3.new(0,-106.26599884033203,0)
+Part.CanCollide = true
+Part.Anchored = true
+Part.Transparency = 1
+
+local Part = Instance.new('Part')
+Part.Parent = Points
+Part.Name = 'Part'
+Part.Size = Vector3.new(26.2220458984375,32.74176788330078,3.49493408203125)
+Part.Position = Vector3.new(1000.0393676757812,24.93364715576172,1085.7408447265625)
+Part.Orientation = Vector3.new(0,38.47700119018555,0)
+Part.CanCollide = true
+Part.Anchored = true
+Part.Transparency = 1
+
+local Part = Instance.new('Part')
+Part.Parent = Points
+Part.Name = 'Part'
+Part.Size = Vector3.new(35.2220458984375,32.74176788330078,2.49493408203125)
+Part.Position = Vector3.new(1026.3360595703125,24.675430297851562,1082.37060546875)
+Part.Orientation = Vector3.new(0,-15.8100004196167,0)
+Part.CanCollide = true
+Part.Anchored = true
+Part.Transparency = 1
+
+local Part = Instance.new('Part')
+Part.Parent = Points
+Part.Name = 'Part'
+Part.Size = Vector3.new(74.2220458984375,32.74176788330078,2.49493408203125)
+Part.Position = Vector3.new(980.4569091796875,24.675430297851562,1129.4068603515625)
+Part.Orientation = Vector3.new(0,75.3479995727539,0)
+Part.CanCollide = true
+Part.Anchored = true
+Part.Transparency = 1
+
+local Part = Instance.new('Part')
+Part.Parent = Points
+Part.Name = 'Part'
+Part.Size = Vector3.new(96.2220458984375,33.74176788330078,2.49493408203125)
+Part.Position = Vector3.new(958.54638671875,25.10816192626953,1114.3759765625)
+Part.Orientation = Vector3.new(0,75.3479995727539,0)
+Part.CanCollide = true
+Part.Anchored = true
+Part.Transparency = 1
+
+local Part = Instance.new('Part')
+Part.Parent = Points
+Part.Name = 'Part'
+Part.Size = Vector3.new(2.2220458984375,33.74176788330078,23.49493408203125)
+Part.Position = Vector3.new(962.1444091796875,25.10816192626953,1061.2291259765625)
+Part.Orientation = Vector3.new(0,50.290000915527344,0)
+Part.CanCollide = true
+Part.Anchored = true
+Part.Transparency = 1
+
+local Part = Instance.new('Part')
+Part.Parent = Points
+Part.Name = 'Part'
+Part.Size = Vector3.new(2.2220458984375,32.74176788330078,26.49493408203125)
+Part.Position = Vector3.new(958.2677001953125,24.757705688476562,1162.8829345703125)
+Part.Orientation = Vector3.new(0,75.3479995727539,0)
+Part.CanCollide = true
+Part.Anchored = true
+Part.Transparency = 1
+
+local Part = Instance.new('Part')
+Part.Parent = Points
+Part.Name = 'Part'
+Part.Size = Vector3.new(2.2220458984375,34.74176788330078,29.49493408203125)
+Part.Position = Vector3.new(947.2251586914062,25.034217834472656,1041.499755859375)
+Part.Orientation = Vector3.new(0,26.88599967956543,0)
+Part.CanCollide = true
+Part.Anchored = true
+Part.Transparency = 1
+
+local Part = Instance.new('Part')
+Part.Parent = Points
+Part.Name = 'Part'
+Part.Size = Vector3.new(2.2220458984375,35.74176788330078,25.49493408203125)
+Part.Position = Vector3.new(929.2840576171875,24.2760009765625,1022.3419189453125)
+Part.Orientation = Vector3.new(0,62.3120002746582,0)
+Part.CanCollide = true
+Part.Anchored = true
+Part.Transparency = 1
+
+local Part = Instance.new('Part')
+Part.Parent = Points
+Part.Name = 'Part'
+Part.Size = Vector3.new(2.2220458984375,35.74176788330078,24.49493408203125)
+Part.Position = Vector3.new(920.5799560546875,24.2760009765625,1006.1513671875)
+Part.Orientation = Vector3.new(0,-8.984999656677246,0)
+Part.CanCollide = true
+Part.Anchored = true
+Part.Transparency = 1
+
+local Part = Instance.new('Part')
+Part.Parent = Points
+Part.Name = 'Part'
+Part.Size = Vector3.new(2.2220458984375,35.74176788330078,24.49493408203125)
+Part.Position = Vector3.new(913.9415893554688,24.017776489257812,987.8558959960938)
+Part.Orientation = Vector3.new(0,47.604000091552734,0)
+Part.CanCollide = true
+Part.Anchored = true
+Part.Transparency = 1
+
+local Part = Instance.new('Part')
+Part.Parent = Points
+Part.Name = 'Part'
+Part.Size = Vector3.new(2.2220458984375,35.74176788330078,26.49493408203125)
+Part.Position = Vector3.new(904.70703125,24.017776489257812,968.093017578125)
+Part.Orientation = Vector3.new(0,0.574999988079071,0)
+Part.CanCollide = true
+Part.Anchored = true
+Part.Transparency = 1
+
+local Part = Instance.new('Part')
+Part.Parent = Points
+Part.Name = 'Part'
+Part.Size = Vector3.new(2.2220458984375,36.74176788330078,27.49493408203125)
+Part.Position = Vector3.new(913.1911010742188,24.259552001953125,947.6029052734375)
+Part.Orientation = Vector3.new(0,-48.167999267578125,0)
+Part.CanCollide = true
+Part.Anchored = true
+Part.Transparency = 1
+
+local Part = Instance.new('Part')
+Part.Parent = Points
+Part.Name = 'Part'
+Part.Size = Vector3.new(34.222042083740234,32.74176788330078,2.49493408203125)
+Part.Position = Vector3.new(1099.5048828125,25.03801727294922,-212.4690704345703)
+Part.Orientation = Vector3.new(0,32.21900177001953,0)
+Part.CanCollide = true
+Part.Anchored = true
+Part.Transparency = 1
+
+local Part = Instance.new('Part')
+Part.Parent = Points
+Part.Name = 'Part'
+Part.Size = Vector3.new(2.2220420837402344,32.74176788330078,54.49493408203125)
+Part.Position = Vector3.new(1140.5457763671875,25.03801727294922,-247.1019287109375)
+Part.Orientation = Vector3.new(0,0,0)
+Part.CanCollide = true
+Part.Anchored = true
+Part.Transparency = 1
+
+local Part = Instance.new('Part')
+Part.Parent = Points
+Part.Name = 'Part'
+Part.Size = Vector3.new(2.2220420837402344,32.74176788330078,62.49493408203125)
+Part.Position = Vector3.new(1110.5072021484375,24.779804229736328,-251.68910217285156)
+Part.Orientation = Vector3.new(0,90.78800201416016,0)
+Part.CanCollide = true
+Part.Anchored = true
+Part.Transparency = 1
+
+local Part = Instance.new('Part')
+Part.Parent = Points
+Part.Name = 'Part'
+Part.Size = Vector3.new(2.2220420837402344,32.74176788330078,62.49493408203125)
+Part.Position = Vector3.new(876.5294189453125,24.779800415039062,-248.4712677001953)
+Part.Orientation = Vector3.new(0,90.78800201416016,0)
+Part.CanCollide = true
+Part.Anchored = true
+Part.Transparency = 1
+
+local Part = Instance.new('Part')
+Part.Parent = Points
+Part.Name = 'Part'
+Part.Size = Vector3.new(2.2220420837402344,32.74176788330078,39.49493408203125)
+Part.Position = Vector3.new(846.5958862304688,24.521583557128906,-229.8638153076172)
+Part.Orientation = Vector3.new(0,0.20499999821186066,0)
+Part.CanCollide = true
+Part.Anchored = true
+Part.Transparency = 1
+
+local Part = Instance.new('Part')
+Part.Parent = Points
+Part.Name = 'Part'
+Part.Size = Vector3.new(2.2220420837402344,32.74176788330078,49.49493408203125)
+Part.Position = Vector3.new(869.552001953125,23.521587371826172,-208.81582641601562)
+Part.Orientation = Vector3.new(0,89.87999725341797,0)
+Part.CanCollide = true
+Part.Anchored = true
+Part.Transparency = 1
+
+local Part = Instance.new('Part')
+Part.Parent = Points
+Part.Name = 'Part'
+Part.Size = Vector3.new(2.2220420837402344,32.74176788330078,62.49493408203125)
+Part.Position = Vector3.new(1110.50732421875,24.779800415039062,-251.68910217285156)
+Part.Orientation = Vector3.new(0,90.78800201416016,0)
+Part.CanCollide = true
+Part.Anchored = true
+Part.Transparency = 1
+
+local Part = Instance.new('Part')
+Part.Parent = Points
+Part.Name = 'Part'
+Part.Size = Vector3.new(29.222042083740234,32.74176788330078,2.49493408203125)
+Part.Position = Vector3.new(1127.0457763671875,24.779804229736328,-221.1019287109375)
+Part.Orientation = Vector3.new(0,0,0)
+Part.CanCollide = true
+Part.Anchored = true
+Part.Transparency = 1
+
+local Part = Instance.new('Part')
+Part.Parent = Points
+Part.Name = 'Part'
+Part.Size = Vector3.new(16.222042083740234,32.74176788330078,2.49493408203125)
+Part.Position = Vector3.new(1073.1949462890625,25.03801727294922,-246.71511840820312)
+Part.Orientation = Vector3.new(0,32.21900177001953,0)
+Part.CanCollide = true
+Part.Anchored = true
+Part.Transparency = 1
+
+local Part = Instance.new('Part')
+Part.Parent = Points
+Part.Name = 'Part'
+Part.Size = Vector3.new(14.222042083740234,32.74176788330078,2.49493408203125)
+Part.Position = Vector3.new(911.6172485351562,24.779804229736328,-244.29945373535156)
+Part.Orientation = Vector3.new(0,-37.071998596191406,0)
+Part.CanCollide = true
+Part.Anchored = true
+Part.Transparency = 1
+
+local Part = Instance.new('Part')
+Part.Parent = Points
+Part.Name = 'Part'
+Part.Size = Vector3.new(31.222042083740234,32.74176788330078,2.49493408203125)
+Part.Position = Vector3.new(1051.5670166015625,24.779800415039062,-241.231201171875)
+Part.Orientation = Vector3.new(0,3.1410000324249268,0)
+Part.CanCollide = true
+Part.Anchored = true
+Part.Transparency = 1
+
